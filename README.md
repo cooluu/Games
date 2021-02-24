@@ -1,2 +1,2 @@
-# U3D
-此为Unity3d项目实例demo
+# U3D/GameMaker Studio 2
+此为使用U3D或GameMaker Studio 2制作的游戏demo。
